@@ -1,0 +1,10 @@
+apiVersion: core/v1
+kind: Pod
+metadata:
+  name: type-mismatch-pod
+  labels:
+    version: {{ .Values.version }}
+spec:
+  containers:
+    - name: demo-container1
+      image: nginxdemos/hello

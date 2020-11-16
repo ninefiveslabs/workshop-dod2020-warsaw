@@ -1,0 +1,16 @@
+apiVersion: batch/v1
+kind: Job
+metadata:
+  name: merge-ghost-job
+  labels:
+    label1: value1
+  annotations:
+    annotation1: value1
+spec:
+  template:
+    spec:
+      restartPolicy: Never
+      containers:
+        - name: demo-container1
+          image: nginxdemos/hello
+    {{ .Values.metadata | toYaml | nindent 0 }}
