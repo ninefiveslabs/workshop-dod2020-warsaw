@@ -5,7 +5,7 @@
     "name": "default"
   },
   "spec": {
-    "apiServer": "https://127.0.0.1:39987",
+    "apiServer": "https://127.0.0.1:44273",
     "namespace": "demo",
     "resourceDefaults": {},
     "expectVersions": {}

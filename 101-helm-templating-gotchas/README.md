@@ -9,6 +9,12 @@ helm delete -n tanka-workshop tanka-workshop;  helm upgrade --dry-run -n tanka-w
 helm delete -n tanka-workshop tanka-workshop;  helm upgrade -n tanka-workshop --install tanka-workshop .
 ```
 
+To set the namespace permanently, use this command:
+```
+kubectl create ns tanka-workshop
+kubectl config set-context --current --namespace=tanka-workshop
+```
+
 **Example 1_syntax_error:** YAML syntax error
 
 A mistake in indentation causes the manifest to be a malformed YAML (mixed map and array syntax on the same level). This type of error can be caught by the `helm lint` and `helm template` commands.

@@ -12,11 +12,18 @@ DevOpsDays Warsaw 2020 x Nine Fives Labs
 
 # Who are we?
 
-**Jarosław** works as a CI/CD engineer and consultant. He builds, packages, releases and deploys software on different kinds of infrastructure, from bare-metal machines through private to public clouds. Infrastructure as code, configuration as code, automation and integration are the tools of his trade. As a fan of open-source software and communities, he enjoys sharing his knowledge and experience with others, now also as a member of the Nine Fives Labs DevOps collective.
+**Jarek** - a CI/CD engineer.
+He builds, packages, releases and deploys software on different kinds of infrastructure, from bare-metal machines through private to public clouds.
+Infrastructure as code, configuration as code, automation and integration are the tools of his trade.
+As a fan of open-source software and communities, he enjoys sharing his knowledge and experience with others.
 
-**Wojciech** is a DevOps Engineer, working on cloud-based and cloud-directed solutions. Currently, he's getting in-depth knowledge of Kubernetes, which he shares through talks and trainings. He enjoys speaking and helping people learn almost as much as he enjoys learning new things himself.
+**Wojciech** is a DevOps Engineer, working on cloud-based and cloud-directed solutions.
+Currently, he's getting in-depth knowledge of Kubernetes, which he shares through talks and trainings.
+He enjoys speaking and helping people learn almost as much as he enjoys learning new things himself.
 
-**Nine Fives Labs** is a group of people interested in automation, infrastructure, software development processes and networking. We speak everything that is cloud native, defined as code and automated. We run this blog and a YouTube channel to share our interests and ideas.
+**Nine Fives Labs** is a group of people interested in automation, infrastructure, software development processes and networking.
+We speak everything that is cloud native, defined as code and automated.
+We run a blog and a YouTube channel to share our interests and ideas.
 
 ---
 
@@ -205,4 +212,4 @@ https://github.com/ninefiveslabs/workshop-dod2020-warsaw
 
 jarek@ninefiveslabs.io / wojtek@ninefiveslabs.io
 
-https://NineFivesLabs.io
+https://ninefiveslabs.io
